@@ -1,6 +1,6 @@
 // Copyright 2018-2020 Cargill Incorporated
 //
-// Modifications copyright (C) 2020 Theadora Ross
+// Modifications copyright (C) 2020 Tyson Foods, Inc.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -23,12 +23,11 @@
 package sabre_pb2
 
 import (
-	reflect "reflect"
-	sync "sync"
-
 	proto "github.com/golang/protobuf/proto"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
+	reflect "reflect"
+	sync "sync"
 )
 
 const (

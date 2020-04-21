@@ -1,6 +1,6 @@
 // Copyright 2018-2020 Cargill Incorporated
 //
-// Modifications copyright (C) 2020 Theadora Ross
+// Modifications copyright (C) 2020 Tyson Foods, Inc.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -16,7 +16,7 @@
 
 syntax = "proto3";
 
-// Modifications copyright (C) 2020 Theadora Ross
+// Modifications copyright (C) 2020 Tyson Foods, Inc.
 // provides output go package name
 option go_package = "sabre_pb2";
 
